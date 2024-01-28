@@ -31,3 +31,4 @@
 ![30](https://github.com/atultembhekar/React.js-Handwritten-Notes/assets/127327717/8ae2defa-ffec-4ac3-ac13-c898aa7238da)
 ![31](https://github.com/atultembhekar/React.js-Handwritten-Notes/assets/127327717/7d7ce978-4caa-4c4b-808c-66669d70dfd4)
 ![32](https://github.com/atultembhekar/React.js-Handwritten-Notes/assets/127327717/b17de555-b0a5-4d3b-a051-3ffae03a0bf1)
+![33](https://github.com/atultembhekar/React.js-Handwritten-Notes/assets/127327717/10e74945-af8c-48df-8d95-a07b718ed04b)
